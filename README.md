@@ -33,7 +33,7 @@ How can we better understand this inequality by investigating the rare millennia
 
   - Homeowners were outnumbered 2:1 in the data, leading to imbalanced class sizes. 
 
-    ![](visualizations/piechart.png)
+    ![](Visualizations/piechart.png)
 
 - **Defining  target variable:** 
 
