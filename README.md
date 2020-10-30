@@ -33,7 +33,7 @@ How can we better understand this inequality by investigating the rare millennia
 
   - Homeowners were outnumbered 2:1 in the data, leading to imbalanced class sizes. 
 
-    ![image-20201030181144954](/Users/juliaqiao/Library/Application Support/typora-user-images/image-20201030181144954.png)
+    ![image-20201030181144954](/Users/juliaqiao/Documents/Metis/Classifying_Millennial_Home_Ownership/Visualizations/piechart.png)
 
 - **Defining  target variable:** 
 
@@ -66,7 +66,7 @@ How can we better understand this inequality by investigating the rare millennia
 
   - Created an interactive Tableau dashboard for granular visualization of features and subjects.
 
-    ![image-20201030184537554](/Users/juliaqiao/Library/Application Support/typora-user-images/image-20201030184537554.png)
+    ![image-20201030184537554](/Users/juliaqiao/Documents/Metis/Classifying_Millennial_Home_Ownership/Visualizations/Tableau/tableau_dash.png)
 
 ## Results:
 
@@ -76,7 +76,7 @@ The final model was a logistic regression model with LASSO regularization (incre
 
 **Confusion Matrix**
 
-![image-20201030181116172](/Users/juliaqiao/Library/Application Support/typora-user-images/image-20201030181116172.png)
+![image-20201030181116172](/Users/juliaqiao/Documents/Metis/Classifying_Millennial_Home_Ownership/Visualizations/confusion_matrix.png)
 
 
 
@@ -86,7 +86,7 @@ The most highly correlated positive features (in order of significance) were mar
 
 Interestingly, all education levels, from high school to medical/law degrees had positive correlations with home ownership, with the exception of PhD degrees. This may be partially due to most PhD students still finishing their programs at age 30 and thus not in positiions to invest in permanent homes. 
 
-![image-20201030180959722](/Users/juliaqiao/Library/Application Support/typora-user-images/image-20201030180959722.png)
+![image-20201030180959722](/Users/juliaqiao/Documents/Metis/Classifying_Millennial_Home_Ownership/Visualizations/Top_5_features.png)
 
 **Next Steps:**
 
