@@ -1,4 +1,4 @@
-# Classifying Millenial Home Owners
+# Classifying Millennial Home Owners
 
 ## Objective:
 
@@ -10,7 +10,7 @@ Homeownership is a cornerstone of the American dream, but it's become apparent i
 
 According to a recent Federal Reserve Study published in [The Washington Post](https://www.washingtonpost.com/business/2020/01/20/millennials-share-us-housing-market-small-shrinking/):
 
-> When **baby boomers** hit a median age of 35 in 1990, they **owned nearly one-third** of American real estate by value. In 2019, the **millennial** generation, with a median age of 31, **owned just 4 percent**
+> When **baby boomers** hit a median age of 35 in 1990, they **owned nearly one-third** of American real estate by value. In 2019, the **millennial** generation, with a median age of 31, **owned just 4 percent.**
 
 How can we better understand this inequality by investigating the rare millennial that is a homeowner? And more importantly, if you're a business, how can you spot these millennials by understanding the factors that lead to their homeownership?
 
@@ -60,7 +60,7 @@ How can we better understand this inequality by investigating the rare millennia
 
 - **Scoring:**
 
-  - Prioritization of the recall score is due to the fact that for any outreach/marketing purposes, spend is usually adjustable and casting a wider net is key, so the opportunity cost of leaving out a millenial who is a homeowner (false negative) is greater than reaching a millenial who is not currently a homeowner (false positive). 
+  - Prioritization of the recall score is due to the fact that for any outreach/marketing purposes, spend is usually adjustable and casting a wider net is key, so the opportunity cost of leaving out a millennial who is a homeowner (false negative) is greater than reaching a millennial who is not currently a homeowner (false positive). 
 
 - **Tableau Visualization**:
 
