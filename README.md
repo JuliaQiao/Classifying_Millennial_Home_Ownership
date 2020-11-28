@@ -6,7 +6,7 @@ Build a supervised classification model to interpret factors contributing to mil
 
 ## Background:
 
-Homeownership is a cornerstone of the American dream, but it's become apparent in recent decades that millenials have not been able to buy into the white picket fence reality. 
+Homeownership is a cornerstone of the American dream, but it's become apparent in recent decades that millennials have not been able to buy into the white picket fence reality. 
 
 According to a recent Federal Reserve Study published in [The Washington Post](https://www.washingtonpost.com/business/2020/01/20/millennials-share-us-housing-market-small-shrinking/):
 
